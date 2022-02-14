@@ -1,0 +1,3 @@
+CID	Nome	Num_De_Casos
+112001	Bronquite	2
+112004	Virose	1

@@ -1,0 +1,4 @@
+Número_enfermarias	Hospital
+3	Albert Einstein
+3	Santa Casa
+2	Vasconcelos

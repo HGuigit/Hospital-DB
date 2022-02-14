@@ -1,0 +1,9 @@
+Hospital	Enf
+Albert Einstein	Enfermaria4
+Albert Einstein	Enfermaria5
+Albert Einstein	Enfermaria6
+Santa Casa	Enfermaria1
+Santa Casa	Enfermaria2
+Santa Casa	Enfermaria3
+Vasconcelos	Enfermaria7
+Vasconcelos	Enfermaria8

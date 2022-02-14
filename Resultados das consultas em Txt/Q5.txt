@@ -1,0 +1,3 @@
+Num_pacientes	Enfermarias	Hospital
+2	Enfermaria1	Santa Casa
+1	Enfermaria3	Santa Casa

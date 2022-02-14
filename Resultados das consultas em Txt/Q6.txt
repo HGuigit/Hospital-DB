@@ -1,0 +1,2 @@
+Num_consultas	Hospital
+11	Albert Einstein

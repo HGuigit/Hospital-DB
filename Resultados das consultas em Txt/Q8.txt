@@ -1,0 +1,4 @@
+Média_Aparecimento	Nome
+20166116.0000	Bronquite
+20200603.0000	Virose
+20131002.0000	Varíola

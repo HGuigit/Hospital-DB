@@ -1,0 +1,2 @@
+Hospital	Num_Leitos
+Santa Casa	24

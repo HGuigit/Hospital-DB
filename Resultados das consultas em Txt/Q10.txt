@@ -1,0 +1,3 @@
+Quantidade	Nome_Remédio	Nome_Lab
+2	Remedio4	RockRocha
+1	Remedio1	LaPoção
